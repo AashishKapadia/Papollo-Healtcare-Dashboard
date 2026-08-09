@@ -58,6 +58,7 @@ The main objectives of this project are to:
 │
 └── LICENSE
     └── MIT License
+```
 ---
 
 ***📈 Dashboard Analysis***
