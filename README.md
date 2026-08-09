@@ -45,7 +45,7 @@ The main objectives of this project are to:
 ## 📁 Repository Structure
 
 
-Papollo-Healtcare-Dashboard/
+```Papollo-Healtcare-Dashboard/
 │
 ├── Papollo-Healtcare-Dashboard.twbx
 │   └── Tableau packaged workbook
